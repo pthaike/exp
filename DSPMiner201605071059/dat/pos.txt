@@ -1,0 +1,9 @@
+F,R,A,E,A,E,D,G,L,L,L,Y,C,G,E,N,E,H,G,R,G,D,F,M,S,L,A,I,I,R,R,S,L,Q,F
+R,F,N,C,G,T,G,V,A,I,I,V,S,E,T,K,I,K,L,G,G,W,H,T,V,M,L,Y,R,D,G,Q,N,G,L,L,Q,L,N,N,G,T,P,V,T,G,Q,S,Q,G,Q,Y,S,K,I,T,F,R,T,P,L,Y,L,G,G,A,P,S
+A,Y,W,L,V,R,A,T,G,T,N,R,G,F,Q,G,C,V,Q,L,L,A,V,N,G,R,R,I,D
+I,K,T,E,A,T,Q,G,L,I,L,W,S,G,K,G,L,E,R,S,D,Y,I,A,L,A,I,V,D,G,F,V,Q,M,M,Y,D,L,G,S,K,P,V,I,L,R,S,T,V,P,I
+N,T,N,H,W,T,H,I,K,A,Y,R,V,Q,R,E,G,S,L,Q,V,G,N,E,A,P,I,T,G,X,G,S,S,P,L,G,A,T,Q,L,D,T,D,G,A,L,,L,G,G,M,E,R,L,S,V,A,H,K,L,P,K,A,Y,S,T,G,F,I,G,C,I,R,D,V,I,V,D,R,Q,E,L,H
+G,X,G,G,A,L,W,L,G,G,M,E,R,L,S,V,A,H,K,L,P,K,A,Y,S,T,G,F,A,T,Q,L,D,T,D,G,S,S,P,L
+I,V,S,E,T,K,I,K,L,G,G,W,H,T,V,M,L,Y,R,D,G,Q,N,G,L,L,Q,L,N,H,K,L,P,K,A,Y,S,T,G,F,I,G
+L,Y,C,G,E,N,E,H,G,R,G,D,F,Y,D,L,G,S,K,P,V,I,L,R,S,T,V,P,I
+P,K,A,C,I,R,D,V,I,V,D,R,Y,S,T,G,F,I,G,N,T,N,H,T,H,I,K,A,Y,R,V,Q,R,E,G,S,L

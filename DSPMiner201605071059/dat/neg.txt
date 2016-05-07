@@ -1,0 +1,6 @@
+D,G,L,I,L,Y,A,G,M,I,L,Y,N,G,Q,R,R,T,T,G,A,D,F,I,S,L,G,L,V,S,G
+R,L,E,F,R,F,D,V,G,S,G,M,A,T,I,R,D,P,N,P,I,K,L,G,E,F,H,T,V,E,V,N,R,N,L,T
+E,G,Y,I,I,V,D,G,G,E,P,I,S,G,K,S,Q,G,K,F,Q,G,L,D,L,N,E,E,L,H,V,G,G,Y,P,N,Y,T,S,I,V,K,T,A,G,I,K,T,G,F,V,G,C,I,R,Q,L,V,I,Q,G,E,E,V
+V,R,T,W,D,P,E,G,V,I,F,Y,G,D,T,N,P,K,D,D,W,F,M,L,G,L,R
+M,A,T,I,R,D,P,N,P,I,K,L,G,E,F,H,T,V,E,V,N,K,F,Q,G,L,D,L,N,E,E,L,H,V,G,G,Y,P,N,Y,T
+G,G,E,P,I,S,G,K,S,Q,G,K,F,Q,G,L,D,L,N,E,E,L,H,V,G,G,Y,P,N

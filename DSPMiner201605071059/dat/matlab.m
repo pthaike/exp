@@ -1,0 +1,5 @@
+a = rand(21,21)
+b = ones(21,1)
+b = diag(b)
+c = b + tril(a, -1)+triu(a',1)
+csvwrite('a.txt',c)
